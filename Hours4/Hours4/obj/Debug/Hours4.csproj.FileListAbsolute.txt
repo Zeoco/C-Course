@@ -1,0 +1,6 @@
+c:\users\jared\documents\visual studio 2015\Projects\Hours4\Hours4\bin\Debug\Hours4.exe.config
+c:\users\jared\documents\visual studio 2015\Projects\Hours4\Hours4\bin\Debug\Hours4.exe
+c:\users\jared\documents\visual studio 2015\Projects\Hours4\Hours4\bin\Debug\Hours4.pdb
+c:\users\jared\documents\visual studio 2015\Projects\Hours4\Hours4\obj\Debug\Hours4.csprojResolveAssemblyReference.cache
+c:\users\jared\documents\visual studio 2015\Projects\Hours4\Hours4\obj\Debug\Hours4.exe
+c:\users\jared\documents\visual studio 2015\Projects\Hours4\Hours4\obj\Debug\Hours4.pdb
