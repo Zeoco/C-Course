@@ -1,0 +1,8 @@
+c:\users\jared\documents\visual studio 2015\Projects\Hours3\Hours3\bin\Debug\Hours3.exe.config
+c:\users\jared\documents\visual studio 2015\Projects\Hours3\Hours3\bin\Debug\Hours3.exe
+c:\users\jared\documents\visual studio 2015\Projects\Hours3\Hours3\bin\Debug\Hours3.pdb
+c:\users\jared\documents\visual studio 2015\Projects\Hours3\Hours3\obj\Debug\Hours3.exe
+c:\users\jared\documents\visual studio 2015\Projects\Hours3\Hours3\obj\Debug\Hours3.pdb
+C:\Users\Jared\Documents\Visual Studio 2015\Projects\C# Course\Hours3\Hours3\bin\Debug\Hours3.exe.config
+C:\Users\Jared\Documents\Visual Studio 2015\Projects\C# Course\Hours3\Hours3\obj\Debug\Hours3.exe
+C:\Users\Jared\Documents\Visual Studio 2015\Projects\C# Course\Hours3\Hours3\obj\Debug\Hours3.pdb
