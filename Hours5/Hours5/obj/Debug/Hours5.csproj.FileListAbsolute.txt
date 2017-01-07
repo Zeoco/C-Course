@@ -1,0 +1,6 @@
+c:\users\jared\documents\visual studio 2015\Projects\Hours5\Hours5\bin\Debug\Hours5.exe.config
+c:\users\jared\documents\visual studio 2015\Projects\Hours5\Hours5\obj\Debug\Hours5.csprojResolveAssemblyReference.cache
+c:\users\jared\documents\visual studio 2015\Projects\Hours5\Hours5\bin\Debug\Hours5.exe
+c:\users\jared\documents\visual studio 2015\Projects\Hours5\Hours5\bin\Debug\Hours5.pdb
+c:\users\jared\documents\visual studio 2015\Projects\Hours5\Hours5\obj\Debug\Hours5.exe
+c:\users\jared\documents\visual studio 2015\Projects\Hours5\Hours5\obj\Debug\Hours5.pdb
